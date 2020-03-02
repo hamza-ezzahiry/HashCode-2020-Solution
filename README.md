@@ -11,7 +11,7 @@
 
 # About 
 
-This solution will get around 21,924,117 points (21,924,117 in the competition; #3671 Worldwide / #17 in Morocco 🇲🇦)
+This solution will get around 21,924,117 points (21,924,117 in the competition; #3671 Worldwide 🌎/ #17 in Morocco 🇲🇦)
 
 # Score 
 <img align="center" src="./Images/Score.png">
@@ -53,5 +53,3 @@ list of their books to scan.
 * Gourragui Abderrahman [@Smigy](https://www.linkedin.com/in/abdel-gourragui-4169b2107/) 
 
 from  **[1337 Coding School](https://www.1337.ma)**
-
- 
