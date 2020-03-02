@@ -1,10 +1,10 @@
 # HashCode-2020-Solution
 
-<img align="center" src="./images/bg.png">
+<img align="center" src="./Images/bg.png">
 
 This solution will get around 717698 points (21,924,117 in the competition; #3671 place Worldwide / #17 in Morocco)
 
-<img align="center" src="./images/score.png">
+<img align="center" src="./Images/score.png">
 
 
 
