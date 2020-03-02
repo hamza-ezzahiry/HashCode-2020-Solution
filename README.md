@@ -11,7 +11,7 @@
 
 # About 
 
-This solution will get around 21,924,117 points (21,924,117 in the competition; #3671 place Worldwide / #17 in Morocco 🇲🇦)
+This solution will get around 21,924,117 points (21,924,117 in the competition; #3671 Worldwide / #17 in Morocco 🇲🇦)
 
 # Score 
 <img align="center" src="./Images/Score.png">
